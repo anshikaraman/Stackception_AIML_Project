@@ -1,4 +1,4 @@
-## TEAM STACKCEPTION\
+## TEAM STACKCEPTION
 **Members:**\
 Anshika Raman       210050014\
 Komma Sharanya      210050086\
