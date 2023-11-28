@@ -31,7 +31,7 @@ STACK_GAN_Project\
     ├── engine.py\
     ├── layers.py\
     ├── train.py\
-    └── util.py\
+    └── util.py
 
 Parameters/variables to be changed before running the training/testing:\
 
