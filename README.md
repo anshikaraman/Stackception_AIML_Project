@@ -4,10 +4,10 @@ Anshika Raman       210050014\
 Komma Sharanya      210050086\
 Namrata Jha         210050104\
 Shriyank Tatawat    210050147\
-Vaibhav Vishal      210050159\
+Vaibhav Vishal      210050159
 
 Make sure following tree structure is maintained\
-Add birds and CUB dataset folder to input\
+Add birds and CUB dataset folder to input
 
 STACK_GAN_Project\
 ├── cfg\
