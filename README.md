@@ -58,11 +58,11 @@ Parameters/variables to be changed before running the training/testing:
 
 - cfg/s1.yml : update the arguments in this file before running stage1
 
-- ```bash python3 src/train.py --conf cfg/s1.yml``` : for training stage1
+- ``` python3 src/train.py --conf cfg/s1.yml``` : for training stage1
 
 - cfg/s2.yml : update the arguments in this file before running stage2
 
-- ```bash python3 src/train.py --conf cfg/s2.yml``` : for training stage2
+- ``` python3 src/train.py --conf cfg/s2.yml``` : for training stage2
 
 - for creating inferences from model, comment run(args_) in main of train.py and uncomment the commented part below which calls the sample function and change embedding path
 
