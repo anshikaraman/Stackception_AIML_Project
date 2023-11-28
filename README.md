@@ -35,9 +35,12 @@ Stackception_AIML_Project
 |   |   └──>CUB_200_2011
 |
 |
-└──>model_stage1
-|
-└──>model_stage2
+└──>output
+│   │   logs
+│   │   model_stage1
+│   │   model_stage2
+│   │   results_stage1
+│   │   results_stage2
 |
 └──>src
 │   │   args.py
@@ -56,8 +59,6 @@ Parameters/variables to be changed before running the training/testing:
 - cfg/s1.yml : update the arguments in this file before running stage1
 
 - ```bash python3 src/train.py --conf cfg/s1.yml``` : for training stage1
-
-- args.py   :  update the 'PATH_STR' variable to contain the path of the 'STACK_GAN_Project' directory
 
 - cfg/s2.yml : update the arguments in this file before running stage2
 
