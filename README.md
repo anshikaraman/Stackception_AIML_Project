@@ -10,28 +10,28 @@ Make sure following tree structure is maintained\
 Add birds and CUB dataset folder to input
 
 STACK_GAN_Project\
-├── cfg\
-│   ├── s1.yml\
-│   └── s2.yml\
-├── output\
-│   ├── log\
-│   ├── model_stage1\
-│   ├── model_stage2\
-│   ├── results_stage1\
-│   └── results_stage2\
-├── input\
-│   └── data\
-│       ├── birds\
-│       └── CUB_200_2011\ 
-│           ├── (200 folders)\
-│                ├── (11,788 images)\
-└── src\
-    ├── args.py\
-    ├── dataset.py\
-    ├── engine.py\
-    ├── layers.py\
-    ├── train.py\
-    └── util.py
+|-- cfg\
+||-- s1.yml\
+||-- s2.yml\
+|-- output\
+||-- log\
+||-- model_stage1\
+||-- model_stage2\
+||-- results_stage1\
+||-- results_stage2\
+|-- input\
+||-- data\
+|||-- birds\
+|||-- CUB_200_2011\ 
+||||-- (200 folders)\
+||||-- (11,788 images)\
+|-- src\
+||-- args.py\
+||-- dataset.py\
+||-- engine.py\
+||-- layers.py\
+||-- train.py\
+||-- util.py
 
 Parameters/variables to be changed before running the training/testing:\
 
