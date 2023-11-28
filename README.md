@@ -1,7 +1,7 @@
 ## Team Stackception
 Members:\
 Anshika Raman       210050014\
-Komma Sharanya      210050086\ 
+Komma Sharanya      210050086\
 Namrata Jha         210050104\
 Shriyank Tatawat    210050147\
 Vaibhav Vishal      210050159
