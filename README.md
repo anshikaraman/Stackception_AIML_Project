@@ -14,8 +14,6 @@ pip3 install -r requirements.txt
 - Download the text descriptions from: https://tinyurl.com/yz8h2s2b and extract it in `input/data/` to create `input/data/birds` directory
 
 Make sure following tree structure is maintained\
-Add birds and CUB dataset folder to `input/data`
-Download the dataset from here:
 
 
 ```
