@@ -1,5 +1,5 @@
 # Team Stackception
-Members:
+Members:\
 Anshika Raman       210050014 \
 Komma Sharanya      210050086 \
 Namrata Jha         210050104 \
@@ -78,5 +78,5 @@ Parameters/variables to be changed before running the training/testing:
 --------------------------------------------------------------------------------------------
 
 # References:
-Paper1 : https://arxiv.org/pdf/1612.03242.pdf
+Paper1 : https://arxiv.org/pdf/1612.03242.pdf \
 Paper2 : https://arxiv.org/pdf/1605.05396.pdf
