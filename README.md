@@ -4,7 +4,7 @@ Anshika Raman       210050014 \
 Komma Sharanya      210050086 \
 Namrata Jha         210050104 \
 Shriyank Tatawat    210050147 \
-Vaibhav Vishal      210050159 \
+Vaibhav Vishal      210050159 
 
 ```bash
 pip3 install -r requirements.txt 
@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 
 Make sure following tree structure is maintained\
 Add birds and CUB dataset folder to `input/data`
-Download the dataset from here:\
+Download the dataset from here:
 
 
 ```
@@ -57,21 +57,13 @@ Parameters/variables to be changed before running the training/testing:
 
 - cfg/s1.yml : update the arguments in this file before running stage1
 
-- python3 src/train.py --conf cfg/s1.yml : for training stage1
+- ```bash python3 src/train.py --conf cfg/s1.yml``` : for training stage1
 
 - args.py   :  update the 'PATH_STR' variable to contain the path of the 'STACK_GAN_Project' directory
 
 - cfg/s2.yml : update the arguments in this file before running stage2
 
-- python3 src/train.py --conf cfg/s1.yml : for training stage1
-
-- python3 src/train.py --conf cfg/s2.yml : for training stage2
-
-- cfg/s2.yml : update the arguments in this file before running stage2
-
-- for creating inferences from model, comment run(args_) in main of train.py and uncomment the commented part below which calls the sample function
-
-- python3 src/train.py --conf cfg/s2.yml : for training stage2
+- ```bash python3 src/train.py --conf cfg/s2.yml``` : for training stage2
 
 - for creating inferences from model, comment run(args_) in main of train.py and uncomment the commented part below which calls the sample function and change embedding path
 
