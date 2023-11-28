@@ -67,9 +67,9 @@ Parameters/variables to be changed before running the training/testing:
 - for creating inferences from model, comment run(args_) in main of train.py and uncomment the commented part below which calls the sample function and change embedding path
 
 --------------------------------------------------------------------------------------------
-## Report:
+### Report:
 https://drive.google.com/file/d/1IyVPhRlhxQkKSvoaVt9RfZIFeBFNtqWZ/view <br>
 
-## References:
+### References:
 Paper1 : https://arxiv.org/pdf/1612.03242.pdf \
 Paper2 : https://arxiv.org/pdf/1605.05396.pdf 
