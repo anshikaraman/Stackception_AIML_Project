@@ -19,7 +19,7 @@ Make sure following tree structure is maintained\
 ```
 Stackception_AIML_Project
 │   README.md   
-│	requirements.txt
+│	  requirements.txt
 │
 └──>cfg
 │   │   s1.yml
