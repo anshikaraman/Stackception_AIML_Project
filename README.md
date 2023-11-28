@@ -70,6 +70,9 @@ Parameters/variables to be changed before running the training/testing:
 ### Report:
 https://drive.google.com/file/d/1IyVPhRlhxQkKSvoaVt9RfZIFeBFNtqWZ/view <br>
 
+### Trained Models:
+https://iitbacin-my.sharepoint.com/:f:/g/personal/210050014_iitb_ac_in/Ep0xTGATE-ZHo33VR3WQBFkBYVkIFOShh418-0_teslf5g?e=O2wFdt
+
 ### References:
 Paper1 : https://arxiv.org/pdf/1612.03242.pdf \
 Paper2 : https://arxiv.org/pdf/1605.05396.pdf 
