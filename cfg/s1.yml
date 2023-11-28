@@ -1,0 +1,13 @@
+CONFIG_NAME: "stage1"
+STAGE: 1
+train_bs: 128  # 128 fits / 64 standard
+train_workers: 4
+embedding_type: "cnn-rnn"
+TRAIN_MAX_EPOCH: 600
+TRAIN_GEN_LR: 0.0002 # 2e-4
+TRAIN_DISC_LR: 0.0002 # 2e-4
+TRAIN_LR_DECAY_EPOCH: 50
+TRAIN_SNAPSHOT_INTERVAL: 2000
+NET_G_path: "" #must be empty while training
+NET_D_path: "" #must be empty while training
+# NET_G_path: "/Users/anshikaraman/Downloads/submission/STACK_GAN_Project/output/model_stage1/netG_epoch_350.pth" # uncomment for testing, while making inferences (sample function)
